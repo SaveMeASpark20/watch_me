@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.main-text {
+    font-family: 'myFont', sans-serif;
+    font-size: 9rem; 
+    align-self: flex-end;
+    padding-bottom: 1rem;
+    color: white;
+
+}
